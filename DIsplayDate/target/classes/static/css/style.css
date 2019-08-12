@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+#one {
+	alignment= center;
+	font-size: 45px;
+	font-weight:bold;
+	color: blue;
+	font: bold;
+}
+
+div {
+	border= 2px 5px solid red;
+}
